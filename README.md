@@ -1,3 +1,4 @@
 # LocalNotifications
 
-A description of this package.
+LocalNotifications - a framework to easily create local notifications.
+Wrapper around User notifications
